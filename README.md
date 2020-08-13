@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/-%40arthurhetem-8257E5?style=flat&logo=Twitter&logoColor=white" />
   </a>
 
-  <a href="https://mailto:arthurhetem.1@hotmail.com">
+  <a href="mailto://arthurhetem.1@hotmail.com">
     <img alt="Arthur Hetem" src="https://img.shields.io/badge/-arthurhetem.1%40hotmail.com-8257E5?style=flat&logo=microsoft-outlook&logoColor=white" />
   </a>
   
