@@ -1,0 +1,12 @@
+.container-check label {
+    display: flex;
+    align-items: center;
+    font: 400 14px Poppins;
+    color: var(--color-text-complement);
+}
+
+.container-check check {
+    margin-right: 0.8rem;
+    border-radius: 0.8rem;
+    cursor: pointer;
+}

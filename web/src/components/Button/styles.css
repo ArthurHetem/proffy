@@ -1,0 +1,19 @@
+.default {
+    width: 100%;
+    height: 5.6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0;
+    outline: 0;
+    border-radius: 0.8rem;
+    color: var(--color-button-text);
+    background: var(--color-secundary);
+    margin-bottom: 4rem;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.default:hover {
+    background: var(--color-secundary-dark);
+}
